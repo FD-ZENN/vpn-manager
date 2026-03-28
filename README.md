@@ -26,7 +26,7 @@ Tool sederhana berbasis Bash untuk mengelola koneksi **VPN L2TP/IPsec** di Ubunt
 ## ⚙️ Instalasi
 
 ```bash
-git clone https://github.com/username/vpn-manager.git
+git clone https://github.com/FD-ZENN/vpn-manager.git
 cd vpn-manager
 chmod +x vpn-manager.sh
 sudo ./vpn-manager.sh
